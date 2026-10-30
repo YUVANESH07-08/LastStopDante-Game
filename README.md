@@ -1,6 +1,7 @@
 # ⚡ LAST STOP: DANTE
 
 <p align="center">
+  <a href="https://yuvanesh-r.itch.io/last-stop-dante"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Platform-Windows%20PC-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Engine-Godot%204-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Complete%20v1.0-brightgreen?style=for-the-badge" />
@@ -13,11 +14,17 @@ An adrenaline-fueled 2D cyberpunk arcade street-fighting game built with Godot 4
 
 ---
 
-## 🎮 [⬇️ DOWNLOAD GAME FOR WINDOWS PC](https://github.com/YUVANESH07-08/LastStopDante-Game/releases/latest)
+## 🎮 PLAY & DOWNLOAD
 
-1. Download **`LastStopDante-Windows.zip`** from [Releases](https://github.com/YUVANESH07-08/LastStopDante-Game/releases/latest).
+Choose where to download the game:
+
+* 🕹️ **[Play & Review on itch.io](https://yuvanesh-r.itch.io/last-stop-dante)** *(Official Indie Game Page)*
+* ⬇️ **[Download from GitHub Releases](https://github.com/YUVANESH07-08/LastStopDante-Game/releases/latest)** *(Direct Windows PC Build)*
+
+### Quick Start Guide:
+1. Download **`LastStopDante-Windows.zip`** (396 MB).
 2. Extract the ZIP folder anywhere on your computer.
-3. Double-click **`LastStopDante.exe`** to play! *(No installation required)*
+3. Double-click **`LastStopDante.exe`** to launch and play immediately! *(No installation required)*
 
 ---
 
@@ -57,6 +64,7 @@ An adrenaline-fueled 2D cyberpunk arcade street-fighting game built with Godot 4
 
 * **Creator**: Yuvanesh R
 * **Designation**: `DANTE ARCHIVES // CREATOR FILE 001`
+* **itch.io**: [@yuvanesh-r](https://yuvanesh-r.itch.io/)
 * **GitHub**: [@YUVANESH07-08](https://github.com/YUVANESH07-08)
 * **LinkedIn**: [Yuvanesh R](https://www.linkedin.com/in/yuvanesh-r-6915b7380/)
 
