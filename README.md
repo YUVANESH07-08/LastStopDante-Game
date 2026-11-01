@@ -1,7 +1,7 @@
 # ⚡ LAST STOP: DANTE
 
 <p align="center">
-  <img src="screenshots/icon.png" width="130" alt="Last Stop: Dante Game Icon" />
+  <img src="screenshots/cover_art.png" width="520" alt="Last Stop: Dante — Cover Art" />
 </p>
 
 <p align="center">
